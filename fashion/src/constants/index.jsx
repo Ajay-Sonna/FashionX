@@ -1,10 +1,6 @@
-import { BotMessageSquare, Flower } from "lucide-react";
 import { BatteryCharging } from "lucide-react";
-import { Fingerprint } from "lucide-react";
-import { ShieldHalf } from "lucide-react";
 import { PlugZap } from "lucide-react";
 import { GlobeLock } from "lucide-react";
-
 import { BabyIcon } from "lucide-react";
 import {PersonStanding} from 'lucide-react'
 
@@ -27,7 +23,7 @@ export const navItems = [
   { label: "Categories", href: "feature" },
   { label: "Styles", href: "workflow" },
   { label: "Offers", href: "pricing" },
-  { label: "My Collection", href: "testimonials" },
+  { label: "Reviews", href: "testimonials" },
 ];
 
 export const testimonials = [
@@ -164,32 +160,3 @@ export const pricingOptions = [
   },
 ];
 
-// Free Shipping on orders above a certain amount.
-// Easy Returns with a 30-day return policy.
-// Secure Payments through multiple methods.
-// New Arrivals updated frequently with the latest trends.
-// Exclusive Offers for registered users
-
-export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
-];
-
-export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
-];
-
-export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
-];
