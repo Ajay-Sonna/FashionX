@@ -5,7 +5,7 @@ import { BabyIcon } from "lucide-react";
 import {PersonStanding} from 'lucide-react';
 import { Flower } from "lucide-react";
 
-import kid from '../assets/Kidfasion.jpg'
+import kid from '../assets/kidfasion.jpg'
 import men from '../assets/Men.jpg'
 import women from '../assets/Womenfashion.jpg'
 import accessories from '../assets/accessories.jpg'
