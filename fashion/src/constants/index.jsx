@@ -7,7 +7,7 @@ import { Flower } from "lucide-react";
 
 import kid from '../assets/kidfasion.jpg'
 import men from '../assets/Men.jpg'
-import women from '../assets/Womenfashion.jpg'
+import women from '../assets/womenfashion.jpg'
 import accessories from '../assets/accessories.jpg'
 import toys from '../assets/Toys.jpg'
 import others from '../assets/Others.jpg'
