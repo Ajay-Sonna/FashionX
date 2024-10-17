@@ -1,7 +1,6 @@
 import React from 'react';
 import video3 from "../assets/video3.mp4"
-
-import video4 from "../assets/video4.mp4"
+import video4 from "../assets/video4.mp4";
 
 function Home() {
   return (
